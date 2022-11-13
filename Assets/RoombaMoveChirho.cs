@@ -9,8 +9,8 @@ using UnityEngine;
 
 public class RoombaMoveChirho : MonoBehaviour
 {
-    public float speed = 10f;
-    public float turnSpeed = 45f;
+    private float speed = 10f;
+    private float turnSpeed = 90f;
     // Start is called before the first frame update
     void Start()
     {
